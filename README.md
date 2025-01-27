@@ -1,8 +1,10 @@
 
-LearnToUnlearn - Advanced Education Platform  
+LearnToUnlearn - Advanced Education Platform
+
 LearnToUnlearn is an advanced education platform designed to facilitate seamless learning experiences for students and educators. This web application provides a range of features aimed at enhancing educational engagement, including course management, user interaction, and progress tracking.  
 
 Built with modern web technologies, LearnToUnlearn emphasizes user-friendly design and robust functionality, ensuring that users can easily navigate and utilize the platform for their educational needs.  
+
 
 Key Features:  
 - **Course Management**: Allows educators to create, manage, and share courses with students.  
@@ -15,6 +17,7 @@ Key Features:
 - **Search and Filter Options**: Provides robust search and filtering capabilities for courses, making it easier for users to find relevant content.  
 - **Mobile Compatibility**: Fully responsive design ensures usability on smartphones and tablets.  
 - **Discussion Boards**: Encourages collaborative learning through topic-based discussion boards where users can share insights and ask questions.  
+
 
 Tech Stack:  
 - **JavaScript**: Application logic and interactivity.  
